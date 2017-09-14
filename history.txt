@@ -1,0 +1,102 @@
+    1  pwd
+    2  whoami
+    3  mkdir kkas
+    4  cd kkas
+    5  pwd
+    6  man
+    7  rmdir kkas
+    8  cd
+    9  rmdir kkas
+   10  pwd
+   11  mkdir 2ne
+   12  cd 2ne
+   13  echo 12345 >kkur
+   14  pwd
+   15  cat kkur
+   16  list
+   17  l
+   18  echo $0
+   19  who
+   20  cd
+   21  ls
+   22  ls -l
+   23  cd 2ne
+   24  ls -l
+   25  nano kkur pareizi?
+   26  cat kkur
+   27  history
+   28  rmdir 2ne
+   29  cd
+   30  pwd
+   31  ls -l
+   32  mkdir kkas1
+   33  mkdir kkas2
+   34  mkdir kkas3
+   35  ls -l
+   36  rmdir kkas1
+   37  rmdir kkas2
+   38  rmdir kkas3
+   39  ls -l
+   40  cd 2ne
+   41  ls-la
+   42  ls -la
+   43  mv
+   44  man mv
+   45  rm
+   46  man rm
+   47  rm kkur
+   48  ls -l
+   49  echo Man nāk mieeeeeeeegs > Nekas
+   50  car Nekas
+   51  cat Nekas
+   52  mv Nekas
+   53  man mv
+   54  echo Man nāk mieeeeeeeegs > Nekas1
+   55  rm Neka1
+   56  ls -l
+   57  echo Man nāk mieeeeeeeegs > Nekas2
+   58  ls -l
+   59  rm Nekas
+   60  echo Man nāk mieeeeeeeegs > Nekas
+   61  rm Nekas
+   62  rm Nekas1
+   63  rm Nekas2
+   64  cd
+   65  rmdir cd
+   66  rmdir 2ne
+   67  pwd
+   68  ls -l
+   69  mdir kas
+   70  mkdir kas
+   71  cd kas
+   72  echo 12345 > tagad.txt
+   73  echo 67890 > velak.txt
+   74  cp tagad.txt velak.txt
+   75  cat velak.txt
+   76  ls -l
+   77  cp tagad.txt > velak.txt
+   78  cp tagad.txt velak.txt
+   79  cat tagad
+   80  cat tagad.txt
+   81  cat velak.txt
+   82  mv .  velak.txt
+   83  mv velak.txt guest-QK4zKn
+   84  cd
+   85  ls -l
+   86  cd kas
+   87  ls -l
+   88  rm guest-QK4zKn
+   89  ls -ll
+   90  rm tagad.txt
+   91  cd
+   92  rmdir kas
+   93  ls -l
+   94  history
+   95  pwd
+   96  history
+   97  mkdir darbi
+   98  ls -l
+   99  cd
+  100  cd darbi
+  101  history
+  102  history > history.txt
