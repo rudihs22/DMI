@@ -100,30 +100,3 @@
   100  cd darbi
   101  history
   102  history > history.txt
-  103  ls -l
-  104  cat history.txt
-  105  ls -l
-  106  git init
-  107  git add .
-  108  git config --global user.email rudihs22@inbox.lv
-  109  git commit -m "20170914_09-30"
-  110  git remote add origin https://github.com/rudihs22/DMI.git
-  111  git push origin master
-  112  git user origin master
-  113  git push origin master
-  114  git push -u origin master
-  115  git push origin master
-  116  cd
-  117  history
-  118  history > history.txt
-  119  ls -l
-  120  nano history.txt
-  121  ls -l
-  122  cat history.txt
-  123  git add .
-  124  cd darbi
-  125  ls -l
-  126  nano history.txt
-  127  history
-  128  cd darbi
-  129  history > history.txt
