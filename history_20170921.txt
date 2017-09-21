@@ -10,12 +10,12 @@
    10  ls -l git-download.sh
    11  $PATH          Ceļš
    12  cat /bin/ls
-   13  ls -l
+   13  ls -l     Long listing formāts
    14  $PATH
    15  pwd
    16  PATH=$PATH:/tmp/guest-Gy3nve        Ceļa izveide
    17  $PATH
-   18  ls
+   18  ls       Mapju saraksts
    19  /bin/ls
    20  ~/git-download.sh
    21  git-download.sh
@@ -31,16 +31,16 @@
    31  mv git-download.sh git-download          Faila pārvietošana
    32  ls -l
    33  cd DMI             Ieiešana mapē DMI
-   34  ls -la
+   34  ls -la     Neignorē mapes kuras sākas ar .
    35  cp ~/git-download ./          Faila kopēšaņa no home uz atrašanās vietu
    36  ls -l
    37  nano               Teksta redaktors
-   38  nano git-upload
+   38  nano git-upload       Git-upload rediģēšana
    39  ls -l
-   40  cat git-upload
+   40  cat git-upload     git-upload lasīšana
    41  git upload
    42  git-upload           Scripta git-upload palaišana
-   43  history > history_20170921.txt
+   43  history > history_20170921.txt     History pārvietošana uz citu fialu
    44  -l
    45  ls -l
    46  history
