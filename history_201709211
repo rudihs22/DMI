@@ -1,0 +1,74 @@
+    1  ls -l
+    2  pwd
+    3  nano
+    4  ls -l
+    5  cat git-download.sh
+    6  git-download
+    7  whereis ls
+    8  ls -l /bin/ls
+    9  ls -l git-download
+   10  ls -l git-download.sh
+   11  $PATH
+   12  cat /bin/ls
+   13  ls -l
+   14  $PATH
+   15  pwd
+   16  PATH=$PATH:/tmp/guest-Gy3nve
+   17  $PATH
+   18  ls
+   19  /bin/ls
+   20  ~/git-download.sh
+   21  git-download.sh
+   22  ls -l
+   23  ls -l /bin/ls
+   24  chmod 744 git-download.sh
+   25  ls -l
+   26  git-download.sh
+   27  echo $PATH
+   28  nano git-download.sh
+   29  git-download.sh
+   30  ls -l
+   31  mv git-download.sh git-download
+   32  ls -l
+   33  cd DMI
+   34  ls -la
+   35  cp ~/git-download ./
+   36  ls -l
+   37  nano
+   38  nano git-upload
+   39  ls -l
+   40  cat git-upload
+   41  git upload
+   42  git-upload
+   43  history > history_20170921.txt
+   44  -l
+   45  ls -l
+   46  history
+   47  PATH=$PATH:/tmp/guest-Gy3nve/DMI
+   48  ls -l
+   49  /bin/ls
+   50  chmod 744 git-upload
+   51  ls -l
+   52  git-upload
+   53  history
+   54  nano git-upload
+   55  nano history_20170921.txt
+   56  history
+   57  history > hisotry_20170921.txt
+   58  cat hisotry_20170921.txt
+   59  nano history_20170921.txt
+   60  ls -l
+   61  rmdir history_20170921.txt
+   62  rm history_20170921.txt
+   63  ls -l
+   64  cat history_20170921.txt
+   65  hisotry_20170921.txt > history_20170921.txt
+   66  history > history_20170921.txt
+   67  rm hisotry_20170921.txt
+   68  ls -l
+   69  nano history_20170921.txt 
+   70  git-upload
+   71  nano history_20170921.txt 
+   72  git-upload
+   73  history
+   74  history > history_201709211
