@@ -1,19 +1,19 @@
-    1  ls -l
-    2  pwd
-    3  nano
+    1  ls -l       Failu saraksts
+    2  pwd       Atrašanās vieta
+    3  nano       Teksta redaktors
     4  ls -l
-    5  cat git-download.sh
+    5  cat git-download.sh     Lasīt failu-git-download
     6  git-download
-    7  whereis ls
+    7  whereis ls         Kur atrodās fails ls
     8  ls -l /bin/ls
     9  ls -l git-download
    10  ls -l git-download.sh
-   11  $PATH
+   11  $PATH          Ceļš
    12  cat /bin/ls
    13  ls -l
    14  $PATH
    15  pwd
-   16  PATH=$PATH:/tmp/guest-Gy3nve
+   16  PATH=$PATH:/tmp/guest-Gy3nve        Ceļa izveide
    17  $PATH
    18  ls
    19  /bin/ls
@@ -21,23 +21,36 @@
    21  git-download.sh
    22  ls -l
    23  ls -l /bin/ls
-   24  chmod 744 git-download.sh
+   24  chmod 744 git-download.sh       tiesību piešķiršana failam git-download
    25  ls -l
-   26  git-download.sh
-   27  echo $PATH
-   28  nano git-download.sh
-   29  git-download.sh
+   26  git-download.sh          Scripta palaišana
+   27  echo $PATH        Faila $PATH atkārtošana
+   28  nano git-download.sh      Skripta rakstīšana teksta redaktorā
+   29  git-download.sh           Faila palaišana
    30  ls -l
-   31  mv git-download.sh git-download
+   31  mv git-download.sh git-download          Faila pārvietošana
    32  ls -l
-   33  cd DMI
+   33  cd DMI             Ieiešana mapē DMI
    34  ls -la
-   35  cp ~/git-download ./
+   35  cp ~/git-download ./          Faila kopēšaņa no home uz atrašanās vietu
    36  ls -l
-   37  nano
+   37  nano               Teksta redaktors
    38  nano git-upload
    39  ls -l
    40  cat git-upload
    41  git upload
-   42  git-upload
+   42  git-upload           Scripta git-upload palaišana
    43  history > history_20170921.txt
+   44  -l
+   45  ls -l
+   46  history
+   47  PATH=$PATH:/tmp/guest-Gy3nve/DMI      Ceļa norādīšana
+   48  ls -l
+   49  /bin/ls
+   50  chmod 744 git-upload     Tiesību piešķiršana git-upload
+   51  ls -l
+   52  git-upload        Izveidotais scripts
+   53  history         Vēsture
+   54  nano git-upload         Scripta rediģēšana
+   55  nano history_20170921.txt       History rediģēšana
+   
