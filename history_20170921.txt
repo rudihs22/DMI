@@ -1,56 +1,36 @@
-    1  ls -l       Failu saraksts
-    2  pwd       Atrašanās vieta
-    3  nano       Teksta redaktors
-    4  ls -l
-    5  cat git-download.sh     Lasīt failu-git-download
-    6  git-download
-    7  whereis ls         Kur atrodās fails ls
-    8  ls -l /bin/ls
-    9  ls -l git-download
-   10  ls -l git-download.sh
-   11  $PATH          Ceļš
-   12  cat /bin/ls
-   13  ls -l     Long listing formāts
-   14  $PATH
-   15  pwd
-   16  PATH=$PATH:/tmp/guest-Gy3nve        Ceļa izveide
-   17  $PATH
-   18  ls       Mapju saraksts
-   19  /bin/ls
-   20  ~/git-download.sh
-   21  git-download.sh
-   22  ls -l
-   23  ls -l /bin/ls
-   24  chmod 744 git-download.sh       tiesību piešķiršana failam git-download
-   25  ls -l
-   26  git-download.sh          Scripta palaišana
-   27  echo $PATH        Faila $PATH atkārtošana
-   28  nano git-download.sh      Skripta rakstīšana teksta redaktorā
-   29  git-download.sh           Faila palaišana
-   30  ls -l
-   31  mv git-download.sh git-download          Faila pārvietošana
-   32  ls -l
-   33  cd DMI             Ieiešana mapē DMI
-   34  ls -la     Neignorē mapes kuras sākas ar .
-   35  cp ~/git-download ./          Faila kopēšaņa no home uz atrašanās vietu
-   36  ls -l
-   37  nano               Teksta redaktors
-   38  nano git-upload       Git-upload rediģēšana
-   39  ls -l
-   40  cat git-upload     git-upload lasīšana
-   41  git upload
-   42  git-upload           Scripta git-upload palaišana
-   43  history > history_20170921.txt     History pārvietošana uz citu fialu
-   44  -l
-   45  ls -l
-   46  history
-   47  PATH=$PATH:/tmp/guest-Gy3nve/DMI      Ceļa norādīšana
-   48  ls -l
-   49  /bin/ls
-   50  chmod 744 git-upload     Tiesību piešķiršana git-upload
-   51  ls -l
-   52  git-upload        Izveidotais scripts
-   53  history         Vēsture
-   54  nano git-upload         Scripta rediģēšana
-   55  nano history_20170921.txt       History rediģēšana
-   
+    1  nano
+    2  ls -l
+    3  history
+    4  PATH=$PATH:/tmp/guest-Gy3nve/DMI
+    5  chmod 744 firefox
+    6  ls -l
+    7  firefox
+    8  nano firefox
+    9  _ALI=10
+   10  echo $_ALI
+   11  nano shell_teninjs
+   12  nano shell_teninjs.sh
+   13  rm shell_teninjs
+   14  ls -l
+   15  ./shell_teninjs.sh
+   16  chmod 744 shell_teninjs.sh
+   17  ls -l
+   18  shell_teninjs.sh
+   19  nano shell_teninjs.sh
+   20  ./shell_treninjs
+   21  ./shell_treninjs.sh
+   22  chmod 744 shell_treninjs.sh
+   23  ./shell_treninjs.sh
+   24  ls -l
+   25  rmdir shell_teninjs.sh
+   26  rm shell_teninjs.sh
+   27  ls -l
+   28  cat shell_treninjs.sh 
+   29  echo $NAME
+   30  git-upload
+   31  nano shell_treninjs.sh 
+   32  ./shell_treninjs.sh 
+   33  nano shell_treninjs.sh 
+   34  ./shell_treninjs.sh 
+   35  nano shell_treninjs.sh 
+   36  history > history_20170921.txt
