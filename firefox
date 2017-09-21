@@ -1,0 +1,3 @@
+#!/bin/bash
+firefos -new-tab
+https://www.tutorialspoint.com/unix/unix-using-variables.htm
