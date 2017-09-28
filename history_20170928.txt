@@ -1,0 +1,39 @@
+    1  git clone https://github.com/rudihs22/DMI.git
+    2  ls -l
+    3  cd DMI
+    4  ls -l
+    5  nano shell_treninjs.sh
+    6  nano shell_examples.sh
+    7  pwd
+    8  /tmp/guest-o6K8Sv/DMI/shell_examples.sh
+    9  ~/DMI/shell-examples.sh
+   10  ~/DMI/shell_examples.sh
+   11  ./shell_examples.sh
+   12  ls -la
+   13  chmod 744 shell_examples.sh
+   14  ls -la
+   15  ./shell_examples.sh
+   16  nano shell_examples.sh
+   17  ./shell_examples.sh
+   18  nano shell_examples.sh
+   19  ./shell_examples.sh
+   20  nano shell_examples.sh
+   21  ./shell_examples.sh
+   22  echo $0
+   23  nano shell_examples.sh
+   24  ./shell_examples.sh
+   25  nano shell_examples.sh
+   26  echo $#
+   27  nano shell_examples.sh
+   28  ./shell_examples.sh
+   29  ./shell_examples.sh arg1
+   30  ./shell_examples.sh arg2
+   31  ./shell_examples.sh arg1 arg2 arg3
+   32  nano shell_examples.sh
+   33  ./shell_examples.sh
+   34  ./shell_examples.sh arg1 arg2 arg3
+   35  ./shell_examples.sh arg1
+   36  ls -l
+   37  history
+   38  nano git-upload
+   39  history > history_20170928.txt
