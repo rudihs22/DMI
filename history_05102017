@@ -1,0 +1,73 @@
+    1  notepad
+    2  git clone https://github.com/rudihs22/DMI.git
+    3  ls -l
+    4  cd DMI
+    5  ls -l
+    6  nano shell_trenins.sh
+    7  ls -l
+    8  /tmp/guest-Rtu856/DMI/shell_trenins.sh
+    9  ~/DMI/shell-trenins.sh
+   10  ~/DMI/shell_trenins.sh
+   11  ./shell_trenins.sh
+   12  chmod 774 shell_trenins.sh
+   13  ls -la
+   14  ./shell_trenins.sh
+   15  nano shell_trenins.sh
+   16  ./shell_trenins.sh
+   17  nano shell_trenins.sh
+   18  ./shell_trenins.sh
+   19  nano shell_trenins.sh
+   20  ./shell_trenins.sh
+   21  nano shell_trenins.sh
+   22  ./shell_trenins.sh
+   23  nano shell_trenins.sh
+   24  ./shell_trenins.sh
+   25  nano shell_trenins.sh
+   26  ./shell_trenins.sh
+   27  nano shell_trenins.sh
+   28  ./shell_trenins.sh
+   29  nano shell_trenins.sh
+   30  ./shell_trenins.sh
+   31  nano shell_trenins.sh
+   32  ./shell_trenins.sh
+   33  nano shell_trenins.sh
+   34  ./shell_trenins.sh
+   35  nano shell_trenins.sh
+   36  ./shell_trenins.sh
+   37  nano shell_trenins.sh
+   38  ./shell_trenins.sh
+   39  nano shell_trenins.sh
+   40  ./shell_trenins.sh
+   41  nano shell_trenins.sh
+   42  ./shell_trenins.sh
+   43  nano shell_trenins.sh
+   44  ./shell_trenins.sh
+   45  nano shell_trenins.sh
+   46  ./shell_trenins.sh
+   47  nano shell_trenins.sh
+   48  ./shell_trenins.sh
+   49  nano shell_trenins.sh
+   50  ./shell_trenins.sh
+   51  nano shell_trenins.sh
+   52  ./shell_trenins.sh
+   53  nano shell_trenins.sh
+   54  ./shell_trenins.sh
+   55  nano shell_trenins.sh
+   56  ./shell_trenins.sh
+   57  nano shell_trenins.sh
+   58  ./shell_trenins.sh
+   59  nano shell_trenins.sh
+   60  ./shell_trenins.sh
+   61  nano shell_trenins.sh
+   62  ./shell_trenins.sh
+   63  nano shell_trenins.sh
+   64  ./shell_trenins.sh
+   65  nano shell_trenins.sh
+   66  ./shell_trenins.sh 50 96
+   67  ./shell_trenins.sh 50
+   68  ./shell_trenins.sh 4 9
+   69  ./shell_trenins.sh 16 38
+   70  nano shell_trenins.sh
+   71  pwd
+   72  ls -la
+   73  history > history_05102017
