@@ -1,0 +1,56 @@
+    1  git clone https://github.com/rudihs22/DMI.git
+    2  ls-l
+    3  ls -l
+    4  cd DMI
+    5  ls -l
+    6  nano shell_trenins.sh
+    7  nano shell_relation.sh
+    8  ls -l
+    9  chmod 744 shell_relation.sh
+   10  ls -l
+   11  shell_relation.sh
+   12  ./shell_relation.sh
+   13  nano shell_relation.sh
+   14  ./shell_relation.sh
+   15  nano shell_relation.sh
+   16  ./shell_relation.sh
+   17  nano shell_relation.sh
+   18  ./shell_relation.sh
+   19  nano shell_relation.sh
+   20  ./shell_relation.sh
+   21  nano shell_relation.sh
+   22  ./shell_relation.sh
+   23  nano shell_relation.sh
+   24  ./shell_relation.sh
+   25  nano shell_relation.sh
+   26  ./shell_relation.sh
+   27  nano shell_relation.sh
+   28  ./shell_relation.sh
+   29  nano shell_relation.sh
+   30  ./shell_relation.sh
+   31  ls -l
+   32  nano shell_trenins.sh
+   33  nano shell_relation.sh
+   34  ./shell_relation.sh
+   35  ./shell_relation.sh 1 2
+   36  ./shell_relation.sh 2 2
+   37  nano shell_relation.sh
+   38  ./shell_relation.sh 2 2
+   39  nano shell_relation.sh
+   40  ./shell_relation.sh 2 2
+   41  nano shell_relation.sh
+   42  ./shell_relation.sh 2 2
+   43  nano shell_relation.sh
+   44  ./shell_relation.sh 2 2
+   45  nano shell_relation.sh
+   46  ./shell_relation.sh
+   47  nano git upload
+   48  ls -l
+   49  nano git-upload
+   50  history
+   51  git-upload
+   52  nano git-upload
+   53  ls -l
+   54  git-upload
+   55  history > history_12102017_9.50
+
